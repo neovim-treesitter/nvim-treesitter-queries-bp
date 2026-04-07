@@ -1,8 +1,9 @@
 {
-  "semver": false,
-  "lang": "bp",
-  "max_version": null,
   "location": null,
-  "min_version": null,
-  "url": "https://github.com/ambroisie/tree-sitter-bp"
+  "generate_from_json": null,
+  "generate": null,
+  "lang": "bp",
+  "url": "https://github.com/ambroisie/tree-sitter-bp",
+  "semver": false,
+  "parser_version": "ee641d15390183d7535777947ce0f2f1fbcee69f"
 }
